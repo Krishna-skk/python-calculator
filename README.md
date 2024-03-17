@@ -1,9 +1,9 @@
-git clone https://github.com/Krishna-skk/python-calculator.git
+1.git clone https://github.com/Krishna-skk/python-calculator.git
 
-cd python-calculator/
+2.cd python-calculator/
 
-docker build -t python-calculator .
+3.docker build -t python-calculator .
 
-docker run --name python-calculator-app -d -p 1003:5000 python-calculator
+4.docker run --name python-calculator-app -d -p 1003:5000 python-calculator
 
-http://loalhost:1003 open in your browser
+5.http://loalhost:1003 open in your browser
