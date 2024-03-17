@@ -6,4 +6,4 @@
 
 4.docker run --name python-calculator-app -d -p 1003:5000 python-calculator
 
-5.http://loalhost:1003 open in your browser
+5.http://localhost:1003 open in your browser
